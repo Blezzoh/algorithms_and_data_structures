@@ -2,7 +2,7 @@ package algorithms;
 
 /**
  * Created by blaise on 6/25/17.
- * client for ItnInsertionSort.
+ * client for IntInsertionSort.
  */
 public class clientForInsertionSort {
     public static void main(String [] args){
