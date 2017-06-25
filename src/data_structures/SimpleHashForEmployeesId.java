@@ -78,7 +78,7 @@ public class SimpleHashForEmployeesId {
         while( index < max_entries && ids[index] != id){
             index ++;
             if(index < max_entries && ids[index] == id )
-                return id;
+                return index;
         }
         for (int i = 0; i < (id % max_entries); i++) {
             if(ids[i] == id){

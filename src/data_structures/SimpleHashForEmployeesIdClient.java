@@ -14,7 +14,7 @@ public class SimpleHashForEmployeesIdClient {
         System.out.println(employeesId.addId(92345));
         employeesId.printIds();
         System.out.println(employeesId.removeId(12356));
-        int val = employeesId.searchId(12356);
+        int val = employeesId.searchId(92345);
         System.out.printf("id: " + val);
     }
 }
