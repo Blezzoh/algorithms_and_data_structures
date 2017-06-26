@@ -89,12 +89,12 @@ public class SimpleHashForEmployeesId {
     }
 
     public boolean contains(int id){
-        if(searchId(id) == -1){
+        if(searchId(id) == -1)
             return false;
-        }
-        else{
+
+        else
             return true;
-        }
+
     }
     // return true if it is removed and false otherwise
     public boolean removeId(int id){
@@ -111,5 +111,16 @@ public class SimpleHashForEmployeesId {
         for (int i: ids) {
             System.out.println(i);
         }
+    }
+    public static void main(String args[]){
+
+        SimpleHashForEmployeesId employeesId = new SimpleHashForEmployeesId(100, 12343, 34567,23434,43545);
+        System.out.println(employeesId.searchId(12343));
+        employeesId.addId(12356, 12325,12875, 65987, 34102);
+        System.out.println(employeesId.addId(92345));
+        employeesId.printIds();
+        System.out.println(employeesId.removeId(12356));
+        int val = employeesId.searchId(92345);
+        System.out.printf("id: " + val);
     }
 }
