@@ -48,6 +48,27 @@ while divide (/) by 10 removes the rightmost digit (126 / 10 is 12).
             return farRightDigit + sumDigits(n);
         }
     }
+
+    /*
+    Given a non-negative int n, return the count of the occurrences
+    of 7 as a digit, so for example 717 yields 2. (no loops).
+     */
+    public int count7(int n) {
+        if(n<10){
+            if(n == 7)
+                return 1;
+            else
+                return 0;
+        }
+        else{
+            int farRight = n%10;
+            n /= 10;
+            if ( farRight == 7){
+                return 1 + count7(n);
+            }
+            else return 0 + count7(n);
+        }
+    }
     public static void main(String [] args){
         RecursionProblems recur = new RecursionProblems();
         // bunny ears problems
@@ -57,11 +78,18 @@ while divide (/) by 10 removes the rightmost digit (126 / 10 is 12).
         System.out.println("bunnyEars(3): " + recur.bunnyEars(3));
         System.out.println("bunnyEars(10): " + recur.bunnyEars(10));
         System.out.println("bunnyEars(-5): " + recur.bunnyEars(-5));
-        //
+        //sumDigits
         System.out.println("sumDigits(0): " + recur.sumDigits(0));
         System.out.println("sumDigits(5): " + recur.sumDigits(5));
         System.out.println("sumDigits(115): " + recur.sumDigits(115));
         System.out.println("sumDigits(123456789): " + recur.sumDigits(123456789));
+        //count occourence of 7
+        System.out.println("count(0): " + recur.count7(0));
+        System.out.println("count(127): " + recur.count7(127));
+        System.out.println("count(7): " + recur.count7(7));
+        System.out.println("count(1274357778): " + recur.count7(1274357778));
+        System.out.println("count(1123456890): " + recur.count7(1123456890));
+
 
 
 
