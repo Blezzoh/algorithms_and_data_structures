@@ -2,6 +2,8 @@ package algorithms;
 
 /**
  * Created by blaise on 6/30/17.
+ * exercises on string using the string builder class
+ * Read that they are mutable in opposition to regular string that are immutable
  */
 public class StringsWithStringBuilderProblems {
     /*
@@ -63,8 +65,12 @@ public class StringsWithStringBuilderProblems {
     }
 
     /*
-    palindrome
+    checks if the word is a palindrome
      */
+    public static boolean palindrome(String word){
+        String wordReversed = new StringBuilder(word).reverse().toString();
+        return word.equals(wordReversed);
+    }
     public static void main (String [] args){
         // helloName
         System.out.println("helloName(\"Bob\") : " + helloName("Bob") );
@@ -92,8 +98,17 @@ public class StringsWithStringBuilderProblems {
         System.out.println("\n");
 
         //reverse a string
-        System.out.println(" reversed(ander): " + reversed("ander"));
-        System.out.println(" reversed(Sewanee): " + reversed("Sewanee"));
+        System.out.println("reversed(ander): " + reversed("ander"));
+        System.out.println("reversed(Sewanee): " + reversed("Sewanee"));
+        System.out.println("reversed(eva, can I see bees in a cave): " + reversed("eva, can I see bees in a cave"));
+        System.out.println("\n");
+
+        //palindrome
+        System.out.println("palindrome(racecar): " + palindrome("racecar"));
+        System.out.println("palindrome(madam): " + palindrome("madam"));
+        System.out.println("palindrome(eva, can I see bees in a cave): " + palindrome("eva, can I see bees in a cave"));
+        System.out.println("palindrome(boolean): " + palindrome("boolean"));
+
 
     }
 }
