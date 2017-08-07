@@ -13,3 +13,4 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 8: Dictionaries and Maps
 - Day 9: Recursion
 - Day 10: Binary Numbers
+- Day 22: 2D arrays
