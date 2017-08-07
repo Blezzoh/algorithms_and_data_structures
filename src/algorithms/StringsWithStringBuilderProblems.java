@@ -109,6 +109,5 @@ public class StringsWithStringBuilderProblems {
         System.out.println("palindrome(eva, can I see bees in a cave): " + palindrome("eva, can I see bees in a cave"));
         System.out.println("palindrome(boolean): " + palindrome("boolean"));
 
-
     }
 }
