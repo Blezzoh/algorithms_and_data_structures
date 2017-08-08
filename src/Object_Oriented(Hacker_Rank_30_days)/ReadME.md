@@ -15,3 +15,4 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 10: Binary Numbers
 - Day 11: 2D arrays
 - Day 12: Inheritance
+- Day 13: Abstract Classes
