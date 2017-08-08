@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.*;
 
-public class Arithmetic {
+public class Day2 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
