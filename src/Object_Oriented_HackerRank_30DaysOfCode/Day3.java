@@ -1,9 +1,11 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class Solution {
+public class Day3 {
    
    public static void main(String[] args) {
       Scanner scan = new Scanner(System.in);

@@ -1,8 +1,8 @@
-//Complete this code or write your own from scratch
+package Object_Oriented_HackerRank_30DaysOfCode;//Complete this code or write your own from scratch
 import java.util.*;
 import java.io.*;
 
-class Solution{
+class Day8{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

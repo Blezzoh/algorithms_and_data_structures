@@ -1,3 +1,5 @@
+package Object_Oriented_HackerRank_30DaysOfCode.linkedList;
+
 public class Node{
     int data;
     Node next;
@@ -19,7 +21,7 @@ public class Node{
     * @param newNext classes next Node
     */
     public void setNext(Node newNext){
-        this.next = newNext();
+        this.next = newNext;
     }
     /*@param newData classes data
     */

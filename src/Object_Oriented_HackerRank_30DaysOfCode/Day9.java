@@ -1,10 +1,12 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Day9 {
 
     static int factorial(int n) {
         // Complete this function

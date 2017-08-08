@@ -1,7 +1,9 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Day10 {
     
     public static String toBinary(int n){
         StringBuilder base2= new StringBuilder();

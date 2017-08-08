@@ -1,5 +1,8 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
+
 // Declare your class here. Do not use the 'public' access modifier.
-class MyBook extends Book{
+class Day13MyBook extends Book {
     // Declare the price instance variable
     int price;
 /**   
@@ -10,7 +13,7 @@ class MyBook extends Book{
     *   @param price The book's price.
     **/
     // Write your constructor here
-    MyBook(String title, String author, int price){
+    Day13MyBook(String title, String author, int price){
         super(title, author);
         this.price = price;
     }

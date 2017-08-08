@@ -1,3 +1,5 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.util.*;
 import java.math.*;
 

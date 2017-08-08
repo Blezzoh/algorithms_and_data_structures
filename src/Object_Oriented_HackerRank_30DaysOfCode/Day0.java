@@ -1,8 +1,11 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
 
-public class Day1 {
+import java.util.Scanner;
+
+public class Day0 {
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
-		Scanner scan = new Scanner(System.in); 
+		Scanner scan = new Scanner(System.in);
 		
 		// Read a full line of input from stdin and save it to our variable, inputString.
 		String inputString = scan.nextLine(); 
