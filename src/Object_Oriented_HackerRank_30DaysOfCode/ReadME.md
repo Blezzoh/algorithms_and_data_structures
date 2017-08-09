@@ -17,3 +17,7 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 12: Inheritance
 - Day 13: Abstract Classes
 - Day 14: Scopes
+- Day 15: LinkedList
+- Day 16: Exceptions
+- Day 17: More Exceptions
+- Day 18: 
