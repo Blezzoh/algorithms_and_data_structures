@@ -1,8 +1,5 @@
 package Object_Oriented_HackerRank_30DaysOfCode.linkedList;
 
-import com.sun.org.apache.bcel.internal.classfile.SourceFile;
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 /**
  * Created by blaise on 8/8/17.
  */
