@@ -1,3 +1,5 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.util.*;
 import java.io.*;
 
@@ -12,7 +14,7 @@ class Calculator{
     }
 }
 
-class Day17{
+public class Day17{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();

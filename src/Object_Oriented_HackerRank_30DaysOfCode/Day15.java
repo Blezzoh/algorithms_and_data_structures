@@ -1,3 +1,5 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 
@@ -10,7 +12,7 @@ class Node {
     }
 }
 
-class Day15 {    
+public class Day15 {
   public static  Node insert(Node head,int data) {
           //Complete this method
         if(head != null){
