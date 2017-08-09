@@ -1,6 +1,9 @@
 package Object_Oriented_HackerRank_30DaysOfCode.linkedList;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3275480f518aefab24005eeccefa4fde224b2af0
 /**
  * Created by blaise on 8/8/17.
  */
