@@ -6,8 +6,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-class Solution {
-     static int findMax(List<Integer> sums){
+class Day11 {
+    static int findMax(List<Integer> sums){
         int max = sums.get(0);
         for( int i =1; i<sums.size(); i++){
             if( max < sums.get(i))
@@ -15,7 +15,7 @@ class Solution {
         }
         return max;
     }
-     static List<Integer> sumHourGlasses(int [][] arr){
+    static List<Integer> sumHourGlasses(int [][] arr){
         List <Integer> sums = new ArrayList<>();
         for(int i=0; i < 4; i++){
             for(int j=0; j < 4; j++){
@@ -33,10 +33,10 @@ class Solution {
                 arr[i][j] = in.nextInt();
             }
         }
-        
+
         System.out.println(findMax(sumHourGlasses(arr)));
-        
-        
-        
+
+
+
     }
 }

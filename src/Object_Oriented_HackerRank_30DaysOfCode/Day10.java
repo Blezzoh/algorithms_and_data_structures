@@ -58,7 +58,7 @@ public class Day10 {
         return findMax(map);
     }
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Day18. */
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         

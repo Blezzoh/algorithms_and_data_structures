@@ -1,3 +1,5 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 
@@ -26,8 +28,8 @@ public class Day18 {
             // Convert input String to an array of characters:
             char[] s = input.toCharArray();
 
-            // Create a Solution object:
-            Solution p = new Solution();
+            // Create a Day18 object:
+            Day18 p = new Day18();
 
             // Enqueue/Push all chars to their respective data structures:
             for (char c : s) {
