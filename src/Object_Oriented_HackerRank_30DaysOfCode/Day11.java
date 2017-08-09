@@ -1,11 +1,13 @@
+package Object_Oriented_HackerRank_30DaysOfCode;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
-    public static int findMax(List<Integer> sums){
+class Solution {
+     static int findMax(List<Integer> sums){
         int max = sums.get(0);
         for( int i =1; i<sums.size(); i++){
             if( max < sums.get(i))
@@ -13,7 +15,7 @@ public class Solution {
         }
         return max;
     }
-    public static List<Integer> sumHourGlasses(int [][] arr){
+     static List<Integer> sumHourGlasses(int [][] arr){
         List <Integer> sums = new ArrayList<>();
         for(int i=0; i < 4; i++){
             for(int j=0; j < 4; j++){

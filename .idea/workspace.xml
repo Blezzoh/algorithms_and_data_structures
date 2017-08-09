@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ed286c-41da-48c2-ab1a-dc8faf3afd65" name="Default" comment="added structure">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day0.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day12.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day13.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day14.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/ReadME.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/linkedList/Node.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day1.java" afterPath="$PROJECT_DIR$/src/Object_Oriented(Hacker_Rank_30_days)/Day1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day11.java" afterPath="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day11.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,39 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Day8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day13MyBook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day13MyBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/Node.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,51 +38,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day12.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="1320">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#1705#1706#0" expanded="true" />
+                <element signature="e#1745#1746#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Person.java">
+      <file leaf-file-name="Day11.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="68" lean-forward="true" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day0.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day0.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="40">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -211,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day14.java" />
         <option value="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Person.java" />
         <option value="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day0.java" />
+        <option value="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day11.java" />
+        <option value="$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -290,8 +225,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day12.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <option name="myItemId" value="linkedList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -476,27 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringsWithStringBuilderProblems">
-    <configuration default="false" name="clientForInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algorithms.clientForInsertionSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="algorithm&amp;data_structures" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedList">
     <configuration default="false" name="RecursionProblemsClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -565,6 +480,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algorithms.StringsWithStringBuilderProblems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm&amp;data_structures" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Object_Oriented_HackerRank_30DaysOfCode.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Object_Oriented_HackerRank_30DaysOfCode.linkedList.LinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -965,19 +900,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.clientForInsertionSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RecursionProblemsClient" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RecursionProblems" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RandomRange" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StringsWithStringBuilderProblems" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RecursionProblemsClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RecursionProblems" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RandomRange" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StringsWithStringBuilderProblems" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringsWithStringBuilderProblems" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RandomRange" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RecursionProblems" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RecursionProblemsClient" />
-        <item index="4" class="java.lang.String" itemvalue="Application.clientForInsertionSort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringsWithStringBuilderProblems" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RandomRange" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RecursionProblems" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RecursionProblemsClient" />
       </list>
     </recent_temporary>
   </component>
@@ -1008,7 +943,7 @@
       <workItem from="1498840892207" duration="4423000" />
       <workItem from="1502073407073" duration="425000" />
       <workItem from="1502213097859" duration="16000" />
-      <workItem from="1502231180242" duration="3608000" />
+      <workItem from="1502231180242" duration="7848000" />
     </task>
     <task id="LOCAL-00001" summary="small change on return value of the search">
       <created>1498412652826</created>
@@ -1091,7 +1026,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37302000" />
+    <option name="totallyTimeSpent" value="41542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1104,6 +1039,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1115,9 +1051,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1541779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1164,15 +1100,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_structures/SimpleHashForEmployeesId.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="84" column="25" lean-forward="false" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structures/SimpleHashForEmployeesIdClient.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithms/PrimeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1405,29 +1332,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1435,7 +1343,7 @@
     <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="68" lean-forward="true" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+          <caret line="22" column="68" lean-forward="false" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -1443,23 +1351,7 @@
     <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day13MyBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -1476,6 +1368,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="43" column="47" lean-forward="false" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day13MyBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/linkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object_Oriented_HackerRank_30DaysOfCode/Day11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
