@@ -6,7 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-class Solution {
+class Day11 {
      static int findMax(List<Integer> sums){
         int max = sums.get(0);
         for( int i =1; i<sums.size(); i++){
