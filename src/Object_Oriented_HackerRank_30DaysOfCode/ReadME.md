@@ -20,4 +20,5 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 15: LinkedList
 - Day 16: Exceptions
 - Day 17: More Exceptions
-- Day 18: 
+- Day 18: Queus and Stacks
+- Day 19: 
