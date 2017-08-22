@@ -1,10 +1,11 @@
-package Object_Oriented_HackerRank_30DaysOfCode.queueAndStack;
+package data_structures.queueAndStack;
 
 /**
  * Created by Blaise on 8/9/17.
  * Integer Stack implement on top of custom linked list
  */
-import Object_Oriented_HackerRank_30DaysOfCode.linkedList.*;
+
+import data_structures.linkedList.*;
 
 import java.util.NoSuchElementException;
 

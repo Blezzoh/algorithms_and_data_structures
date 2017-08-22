@@ -1,5 +1,5 @@
-package Object_Oriented_HackerRank_30DaysOfCode.queueAndStack;
-import Object_Oriented_HackerRank_30DaysOfCode.linkedList.*;
+package data_structures.queueAndStack;
+import data_structures.linkedList.*;
 
 import java.util.NoSuchElementException;
 

@@ -1,4 +1,4 @@
-package Object_Oriented_HackerRank_30DaysOfCode.linkedList;
+package data_structures.linkedList;
 
 public class Node{
     int data;
