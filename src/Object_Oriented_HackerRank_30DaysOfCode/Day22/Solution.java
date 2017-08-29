@@ -5,9 +5,9 @@ import java.util.Scanner;
 /**
  * Created by blaise on 8/29/17.
  */
-public class Solution {
+class Solution {
     // return the height of the tree
-    public static int getHeight(Node root){
+     private static int getHeight(Node root){
         Node left = root.left;
         Node right = root.right;
         if(left == null && right == null){
@@ -22,7 +22,7 @@ public class Solution {
         return 1 + Math.max(getHeight(left), getHeight(right));
     }
 
-    public static Node insert(Node root,int data){
+    private static Node insert(Node root, int data){
         if(root==null){
             return new Node(data);
         }
@@ -50,5 +50,6 @@ public class Solution {
         int height=getHeight(root);
         System.out.println(height);
     }
+
 
 }
