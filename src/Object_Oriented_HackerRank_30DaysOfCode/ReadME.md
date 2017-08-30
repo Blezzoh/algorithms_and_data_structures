@@ -24,3 +24,8 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 19: Interfaces
 - Day 20: Sorting
 - Day 21: Generics
+- Day 22: Binary Search Tree
+- Day 23: BST level order traversal 
+- Day 24: More Linked List
+- Day 25: Running Time and Complexity
+- Day 26: Nested Logic

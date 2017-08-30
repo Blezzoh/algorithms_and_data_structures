@@ -7,7 +7,10 @@ import java.util.*;
 
 public class Solution {
     public static boolean isPrime(int n){
-        if(n%2 == 0){
+        if(n == 2){
+            return true;
+        }
+        if(n%2 == 0 || n == 1){
             return false;
         }
         for(int i = 3; i< Math.ceil(n/2.0); i +=2){
