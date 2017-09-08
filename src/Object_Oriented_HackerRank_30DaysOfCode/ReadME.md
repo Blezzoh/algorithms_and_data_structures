@@ -29,3 +29,4 @@ This folder contains the answers to Hacker Rank's 30 days of Code in Java.
 - Day 24: More Linked List
 - Day 25: Running Time and Complexity
 - Day 26: Nested Logic
+- Day 27: Testing
